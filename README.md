@@ -1,7 +1,7 @@
 ### Hi there, I'm Leonardo Henrique Cardoso 👋
 
 - 🔭 I’m currently working on Magento 2 commerce
-- 🌱 I’m currently learning ...
+- 🧔 My github profile in only for study
 
 <div align="center">
   <a href="https://github.com/leohenricardoso">
@@ -13,8 +13,9 @@
 
 #### Tecnologies
 <div style="display: inline_block; align: center><br>
-  <img align="center" alt="Leo-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original-wordmark.svg">
-                                                                                                                                          <img align="center" alt="Leo-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Leo-Magento" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg">
+  <img align="center" alt="Leo-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg">
+  <img align="center" alt="Leo-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Leo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
